@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.errorsul {
+    list-style: none;
+    padding: 0;
+}
+.navbar .glyphicon {
+    padding-right: 5px;
+}
+.navbar li a {
+   text-transform: uppercase;
+}
